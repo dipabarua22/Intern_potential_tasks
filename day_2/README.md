@@ -1,4 +1,4 @@
-### "Day 2*
+### *Day 2*
 ##  *Set 1*
 
 ### 1. Explain how the ternary operator works in JavaScript with an example.
