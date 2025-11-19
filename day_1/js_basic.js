@@ -12,8 +12,6 @@ let name = 'John';
 let age = 30;
 let person = { name: 'John', age: 30 };
 
-
-
 //Operators & Type Constraint
 let a = '5';
 let b = 5;
@@ -37,4 +35,4 @@ function checkValue(value) {
 checkValue(0);
 checkValue('Hello');
 
-
+//javascript Basics
